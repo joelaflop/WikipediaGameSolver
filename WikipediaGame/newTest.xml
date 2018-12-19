@@ -1,0 +1,97 @@
+<mediawiki>
+
+<page>
+<title>1</title>
+<format>text/plain</format>
+<text>I should have no outlinks</text>
+</page>
+
+<page>
+<title>2</title>
+<format>text/plain</format>
+<text>I also should have no outlinks</text>
+</page>
+
+<page>
+<title>3</title>
+<format>text/x-wiki</format>
+<text>[[4]]jeff[[1]]</text>
+</page>
+
+<page>
+<title>4</title>
+<format>text/x-wiki</format>
+<text>[[5]] orange everyone</text>
+</page>
+
+<page>
+<title>5</title>
+<format>text/x-wiki</format>
+<text>jeff[[4]] jeff</text>
+</page>
+
+<page>
+<title>plain0</title>
+<format>text/plain</format>
+<text>[[4]] eggs are good</text>
+</page>
+
+<page>
+<title>6</title>
+<format>text/x-wiki</format>
+<text>jeff[[1]] I [[2]] Am [[3]] jeff jeff jeff jeff connected [[4]] to [[5]] everyone [[7]] [[8]] :[[9]])</text>
+</page>
+
+<page>
+<title>7</title>
+<format>text/x-wiki</format>
+<text>jeff jeff jeff jeff</text>
+</page>
+
+<page>
+<title>8</title>
+<format>text/css</format>
+<text>My text shouldn't matter jeff jeff</text>
+</page>
+
+<page>
+<title>9</title>
+<format>text/css</format>
+<text>My text also shouldn't matter</text>
+</page>
+
+<page>
+<title>aaaa</title>
+<format>text/css</format>
+<text>My text also jeff shouldn't matter</text>
+</page>
+
+<page>
+<title>Aaaa</title>
+<format>text/css</format>
+<text>My text also shouldn't matter</text>
+</page>
+
+<page>
+<title>broke1</title>
+<format>text/x-wiki</format>
+<text>first text</text>
+<text>second text</text>
+</page>
+
+<page>
+<title>Broke2</title>
+<format>text/x-wiki</format>
+<format>text/plain</format>
+<text>first text</text>
+</page>
+
+<page>
+<title>Broke3</title>
+<title>broke3a</title>
+<format>text/x-wiki</format>
+<format>text/plain</format>
+<text>first text</text>
+</page>
+
+</mediawiki>

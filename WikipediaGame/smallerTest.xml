@@ -1,0 +1,67 @@
+<mediawiki>
+  <page>
+    <title>April</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>5983611</id>
+      <parentid>5983606</parentid>
+      <timestamp>2018-02-08T21:39:38Z</timestamp>
+      <contributor>
+        <username>Ixfd64</username>
+        <id>25400</id>
+      </contributor>
+      <comment>Undid revision 5983606 by [[Special:Contributions/2A00:23C4:7F88:8300:A0DE:64B:8B78:10B1|2A00:23C4:7F88:8300:A0DE:64B:8B78:10B1]] ([[User talk:2A00:23C4:7F88:8300:A0DE:64B:8B78:10B1|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{monththisyear|4}}
+'''April''' is the 4th [[month]] of the [[year]], and comes between [[March]] and [[May]]. It is one of four months to have 30 [[day]]s.
+
+April always begins on the same day of week as [[July]], and additionally, [[January]] in leap years. April always ends on the same day of the week as [[December]].
+
+
+== Events in April ==
+=== Fixed Events ===
+* [[April 1]] - [[April Fools' Day]]
+* [[April 1]] - Islamic Republic Day ([[Iran]])
+
+
+== References ==
+{{reflist}}
+
+{{Months}}</text>
+      <sha1>4w1xmiqwqd19m1j9gwtw3xnjj9vyz9f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>August</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>5936417</id>
+      <parentid>5931558</parentid>
+      <timestamp>2018-01-04T17:44:24Z</timestamp>
+      <contributor>
+        <username>Djsasso</username>
+        <id>18539</id>
+      </contributor>
+      <minor />
+      <comment>[[Help:Revert a page|Reverted]] edits by [[Special:Contributions/Zayyam123|Zayyam123]] ([[User talk:Zayyam123|talk]]) to last version by Tahv1705</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{monththisyear|8}}
+'''August''' (Aug.) is the 8th [[month]] of the [[year]] in the [[Gregorian calendar]], coming between [[July]] and [[September]]. It has 31 [[day]]s, the same number of days as the previous month, [[July]], and is named after Roman Emperor [[Augustus Caesar]].
+
+August doesn't begin on the same day of the week as any other month in [[Common year|common years]], but begins on the same day of the week as [[February]] in [[Leap year|leap years]].  August always ends on the same day of the week as [[November]].
+
+=== Fixed observances and events ===
+[[File:Schweizerflaggen St. Gallen.JPG|thumb|150px|right|[[Flag]]s celebrating [[Switzerland]]'s national day on [[August 1]].]]
+* [[August 1]] {{ndash}} National Day of [[Switzerland]]
+* [[August 1]] {{ndash}} Independence Day ([[Benin]])
+
+
+{{Months}}</text>
+      <sha1>m5rxylxpetlhhx5jj9qsvkmsy3qzvwf</sha1>
+    </revision>
+  </page>
+</mediawiki>
